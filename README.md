@@ -1,2 +1,2 @@
 # AICupStrategy
-Strategy for Open AI Championship: https://russianaicup.ru/
+Strategy for AI Championship: https://russianaicup.ru/
